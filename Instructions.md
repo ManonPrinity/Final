@@ -38,4 +38,4 @@
     * Il veut également avoir un aperçu de ce que vous comptez mettre en place graphiquement. Il attends donc la création d’un moodboard (une page présentant l’univers graphique que vous allez lui proposer : couleurs, polices, images, icônes…)
     
  
-                  ![Alt Text](https://media.giphy.com/media/l3q2Lz5yuEFUXX3IQ/giphy-downsized.gif)
+[spoiler]![Alt Text](https://media.giphy.com/media/l3q2Lz5yuEFUXX3IQ/giphy-downsized.gif)[/spoiler]
